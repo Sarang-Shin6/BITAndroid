@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BIT Services</string>
+    <string name="Welcome">Welcome to BIT Services</string>
+    <string name="Login">Please Login to continue</string>
+    <string name="title_activity_client">client</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="UserName">Email</string>
+    <string name="Password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="bitlogo_contentdec">BIT Logo</string>
+    <string name="title_job_request">Job Request</string>
+    <string name="title_track_job">Track Job</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_job">Job</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_request">Request</string>
+    <string name="JOB">JOB</string>
+    <string name="button_Email">EMAIL</string>
+    <string name="button_call">Call</string>
+    <string name="button_website">WEBSITE</string>
+    <string name="sub_request">Please fill out all fields to send a request!</string>
+    <string name="title_branch">Branch</string>
+    <string name="title_jobcat">Job Category</string>
+    <string name="title_duedate">Due Date</string>
+    <string name="title_description">Description</string>
+    <string name="title_send">SEND</string>
+    <string name="title_picture">TAKE A PICTURE</string>
+    <string name="title_job_details">Job Details</string>
+    <string name="title_activity_contractor">Contractor</string>
+    <string name="title_complete">Complete Job</string>
+    <string name="title_maps">SHOW ON MAPS</string>
+    <string name="title_sms">SEND SMS TO CLIENT</string>
+    <string name="title_email">SEND EMAIL TO BIT</string>
+    <string name="title_payment">SEND FOR PAYMENT</string>
+    <string name="pick_time">Please pick a time to send to the Client</string>
+    <string name="title_sendsms">SEND SMS</string>
+    <string name="select_job">Please Select a Job to Complete</string>
+    <string name="loggedkm">Kilometers to Log</string>
+    <string name="duration">Duration of Job</string>
+    <string name="button_complete">Complete Job</string>
+
+</resources>
